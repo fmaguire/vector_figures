@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="157.4489mm"
+   height="45.519104mm"
+   viewBox="0 0 157.4489 45.519104"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/fin/Documents/research/presentations/dal_health_data_science_talk/job_talk/conc_4.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="conclusion.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.217213"
+     inkscape:cx="300.68885"
+     inkscape:cy="154.47296"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="636"
+     inkscape:window-height="1040"
+     inkscape:window-x="2560"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.5097008,-5.9544626)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="39.54829"
+       y="24.35898"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="39.54829"
+         y="24.35898"
+         style="stroke-width:0.264583"></tspan></text>
+    <g
+       id="g14969"
+       transform="translate(0,2.7696914)" />
+    <g
+       id="g15025"
+       transform="matrix(0.97696959,0,0,0.91443328,1.8478257,2.456964)">
+      <rect
+         style="fill:#b3cde3;fill-opacity:1;stroke-width:0.105315;stroke-linejoin:round"
+         id="rect14888"
+         width="89.595154"
+         height="45.254528"
+         x="69.231148"
+         y="6.0867548" />
+      <rect
+         style="fill:#ccebc5;fill-opacity:1;stroke:none;stroke-width:0.0578554;stroke-linejoin:round"
+         id="rect14910"
+         width="30.583752"
+         height="45.254528"
+         x="38.6474"
+         y="6.0867548" />
+      <rect
+         style="fill:#fbb4ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23319;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect169862"
+         width="37.102631"
+         height="45.254528"
+         x="1.6419922"
+         y="6.0867548" />
+      <g
+         id="g14926"
+         transform="translate(-12.522145,-46.011644)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="21.158792"
+           y="57.119549"
+           id="text861"><tspan
+             sodipodi:role="line"
+             id="tspan859"
+             x="21.158792"
+             y="57.119549"
+             style="font-weight:bold;stroke-width:0.264583">Data Method</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="57.478245"
+           y="56.75058"
+           id="text865"><tspan
+             sodipodi:role="line"
+             id="tspan863"
+             x="57.478245"
+             y="56.75058"
+             style="font-weight:bold;stroke-width:0.264583">Data Type</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="104.80104"
+           y="56.811817"
+           id="text869"><tspan
+             sodipodi:role="line"
+             id="tspan867"
+             x="104.80104"
+             y="56.811817"
+             style="font-weight:bold;stroke-width:0.264583">Applied Health Outcome</tspan></text>
+      </g>
+      <g
+         id="g14937"
+         transform="translate(-12.522145,-45.609008)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="18.378342"
+           y="65.189941"
+           id="text873"><tspan
+             sodipodi:role="line"
+             id="tspan871"
+             x="18.378342"
+             y="65.189941"
+             style="stroke-width:0.264583">Data Visualisation</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="54.35363"
+           y="65.189941"
+           id="text877"><tspan
+             sodipodi:role="line"
+             id="tspan875"
+             x="54.35363"
+             y="65.189941"
+             style="stroke-width:0.264583">Health Records</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="83.251915"
+           y="65.189941"
+           id="text907"><tspan
+             sodipodi:role="line"
+             id="tspan905"
+             x="83.251915"
+             y="65.189941"
+             style="stroke-width:0.264583">Remedying an unfufilled demand for copper IUD </tspan><tspan
+             sodipodi:role="line"
+             x="83.251915"
+             y="68.364944"
+             style="stroke-width:0.264583"
+             id="tspan909">placement by local refugee women</tspan></text>
+      </g>
+      <g
+         id="g14948"
+         transform="translate(-12.522145,-43.468719)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="32.637161"
+           y="75.015015"
+           id="text881"><tspan
+             sodipodi:role="line"
+             id="tspan879"
+             x="32.637161"
+             y="75.015015"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583">Data Mining &amp;</tspan><tspan
+             sodipodi:role="line"
+             x="32.637161"
+             y="78.190018"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan885">Ecological Statistics</tspan><tspan
+             sodipodi:role="line"
+             x="32.637161"
+             y="81.365013"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan883" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="56.521713"
+           y="75.015015"
+           id="text899"><tspan
+             sodipodi:role="line"
+             id="tspan897"
+             x="56.521713"
+             y="75.015015"
+             style="stroke-width:0.264583">Social Media</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="83.349586"
+           y="75.015015"
+           id="text913"><tspan
+             sodipodi:role="line"
+             id="tspan911"
+             x="83.349586"
+             y="75.015015"
+             style="stroke-width:0.264583">Improved understanding of social media use by self-ID</tspan><tspan
+             sodipodi:role="line"
+             x="83.349586"
+             y="78.190018"
+             style="stroke-width:0.264583"
+             id="tspan915">autistic individuals</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="20.181679"
+         y="40.741966"
+         id="text889"
+         transform="translate(0,2.7696914)"><tspan
+           sodipodi:role="line"
+           x="20.181679"
+           y="40.741966"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan14954">Machine Learning &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="20.181679"
+           y="43.916965"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan895">Experimental Design</tspan><tspan
+           sodipodi:role="line"
+           x="20.181679"
+           y="47.091965"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan891" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="46.393223"
+         y="40.686157"
+         id="text903"
+         transform="translate(0,2.7696914)"><tspan
+           sodipodi:role="line"
+           id="tspan901"
+           x="46.393223"
+           y="40.686157"
+           style="stroke-width:0.264583">Genomes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="70.718918"
+         y="40.741966"
+         id="text919"
+         transform="translate(0,2.7696914)"><tspan
+           sodipodi:role="line"
+           x="70.718918"
+           y="40.741966"
+           style="stroke-width:0.264583"
+           id="tspan923">More effective antimicrobial stewardship by identifying </tspan><tspan
+           sodipodi:role="line"
+           x="70.718918"
+           y="43.916965"
+           style="stroke-width:0.264583"
+           id="tspan14973">22 new resistance gene activities</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1.6419923,6.0867541 V 51.341277 H 158.82631 V 6.0867541 H 1.6419923"
+         id="path14912" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 38.744624,6.0867541 V 51.341277"
+         id="path14914" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 69.231149,6.0867541 V 51.341277"
+         id="path14916" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1.6385553,13.950385 H 158.94461"
+         id="path14918" />
+    </g>
+  </g>
+</svg>

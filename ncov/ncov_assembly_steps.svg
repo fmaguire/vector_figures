@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="176.40477mm"
+   height="49.665661mm"
+   viewBox="0 0 176.40477 49.665661"
+   version="1.1"
+   id="svg1811"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="assembly_workflow.svg"
+   inkscape:export-filename="/home/fin/Documents/research/presentations/dal_health_data_science_talk/teaching_seminar/assembly5.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs1805">
+    <marker
+       style="overflow:visible"
+       id="marker13341"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13339" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13253"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13251" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13081"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13079" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13081-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13079-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13081-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13079-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13081-58"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13079-62" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.055328"
+     inkscape:cx="597.657"
+     inkscape:cy="249.91321"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1808">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.9072356,-5.3124661)">
+    <rect
+       style="fill:#fcffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6238"
+       width="176.38629"
+       height="49.665627"
+       x="1.9072356"
+       y="5.3124995"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g5384-6"
+       transform="translate(-62.616219)"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.66928"
+         id="rect5071-33-8-0"
+         width="53.700817"
+         height="22.00235"
+         x="125.87543"
+         y="32.975777" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="137.30507"
+         y="37.353539"
+         id="text10451-3-5-7-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan10449-6-9-5-8-8"
+           x="137.30507"
+           y="37.353539"
+           style="stroke-width:0.264583">QC + Result Report</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.347267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437"
+         width="27.661539"
+         height="10.101379"
+         x="128.10719"
+         y="41.431927" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.166237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0"
+         width="27.804989"
+         height="2.3028188"
+         x="128.01849"
+         y="-43.733208"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9"
+         width="7.7975464"
+         height="1.7444929"
+         x="43.810455"
+         y="128.10757"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-2"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="129.72102"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-5"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="131.3345"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-4"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="132.94795"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-0"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="134.56142"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-59"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="136.17488"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-46"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="137.78833"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-9"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="139.40179"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-22"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="141.01524"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-47"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="142.62871"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-7"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="144.24217"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-54"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="145.85564"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-8"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="147.46909"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-1"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="149.08255"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-28"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="150.696"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-93"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="152.30946"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0766212;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5437-0-9-6"
+         width="7.7975469"
+         height="1.744493"
+         x="43.810455"
+         y="153.92291"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0972833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5613-8"
+         width="8.0292444"
+         height="6.0101748"
+         x="168.10243"
+         y="43.463161" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#66a61e;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 158.96996,46.769041 1.47712,0.385841 0.75153,0.912469 1.58524,0.875832 3.8303,0.404069 0.39687,0.04187"
+         id="path5653"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d95f02;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.5568,48.466618 4.73221,0.05644 1.3754,0.209822 1.29905,0.673451"
+         id="path5655"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#7570b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.04603,49.442366 0.51077,-0.975748 0.81907,0.08711 0.0973,-0.264967 0.72544,-0.221409 0.41048,0.459362 0.71763,-1.000329 0.67356,-0.276326 0.16102,0.732518 0.90288,-0.486135 0.5608,-0.666065 0.70778,-0.405725 0.52524,-0.133287 0.20784,0.458463 0.94598,-0.147886"
+         id="path5651"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0972832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5613"
+         width="8.0292444"
+         height="6.0101748"
+         x="158.97557"
+         y="43.463161" />
+    </g>
+    <path
+       d="m 10.36447,35.499981 h 3.72055 v 1.1 h -3.72055 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.143332"
+       id="path26-5-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89027px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.324189"
+       x="16.647652"
+       y="37.499992"
+       id="text3875"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3873"
+         x="16.647652"
+         y="37.499992"
+         style="stroke-width:0.324189">SARS-CoV2</tspan></text>
+    <path
+       d="m 10.36447,41.199978 h 3.72056 v 1.099999 h -3.72056 z"
+       style="fill:#d95f02;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.143332"
+       id="path26-5-6-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89027px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.324189"
+       x="16.52227"
+       y="43.124989"
+       id="text3885"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3883"
+         x="16.52227"
+         y="43.124989"
+         style="stroke-width:0.324189">Host RNA</tspan></text>
+    <path
+       d="m 10.36447,46.899974 h 3.72056 v 1.1 h -3.72056 z"
+       style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.143332"
+       id="path26-5-6-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89027px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.324189"
+       x="16.685631"
+       y="48.874989"
+       id="text3889"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3887"
+         x="16.685631"
+         y="48.874989"
+         style="stroke-width:0.324189">Other RNA Viruses</tspan></text>
+    <g
+       id="g5189"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.66927"
+         id="rect5071"
+         width="53.700817"
+         height="22.00235"
+         x="1.9072357"
+         y="5.3124666" />
+      <path
+         d="m 6.47115,13.488912 h 2.4585104 v 0.85866 H 6.47115 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path108-3" />
+      <path
+         d="M 8.7201104,15.280322 H 11.17862 v 0.85866 H 8.7201104 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path110-0" />
+      <path
+         d="M 8.1980004,19.581032 H 10.65651 v 0.85866 H 8.1980004 Z"
+         style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path112-3" />
+      <path
+         d="M 8.9473004,20.819992 H 11.40581 v 0.85725 H 8.9473004 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path114-0" />
+      <path
+         d="m 12.4338,14.628382 h 2.45851 v 0.85867 H 12.4338 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path116-9" />
+      <path
+         d="m 16.79943,14.498922 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path118-2" />
+      <path
+         d="m 15.36644,20.102082 h 2.45851 v 0.85867 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path120-5" />
+      <path
+         d="m 19.40681,20.102082 h 2.45851 v 0.85867 h -2.45851 z"
+         style="fill:#d95f02;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path122-4" />
+      <path
+         d="m 20.97102,17.365232 h 2.45851 v 0.85867 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path124-0" />
+      <path
+         d="m 17.19101,17.365232 h 2.45851 v 0.85867 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path126-5" />
+      <path
+         d="m 14.19381,17.756822 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path128-9" />
+      <path
+         d="m 25.792439,18.408402 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path130-4" />
+      <path
+         d="m 26.965419,20.363852 h 2.45851 v 0.85725 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path132-6" />
+      <path
+         d="m 31.592819,14.495172 h 2.458499 v 0.85866 h -2.458499 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path134-9" />
+      <path
+         d="m 27.616999,14.889092 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path136-2" />
+      <path
+         d="m 35.567208,19.711912 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path138-2" />
+      <path
+         d="m 38.303698,21.666302 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path140-4" />
+      <path
+         d="m 31.005789,18.799982 h 2.458509 v 0.85866 h -2.458509 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path142-7" />
+      <path
+         d="m 34.133868,17.627002 h 2.4585 v 0.85725 h -2.4585 z"
+         style="fill:#d95f02;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path144-7" />
+      <path
+         d="m 39.215978,15.411202 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path146-5" />
+      <path
+         d="m 44.951438,17.887702 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path148-4" />
+      <path
+         d="m 43.387578,21.405602 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path150-8" />
+      <path
+         d="m 41.171428,16.844532 h 2.45851 v 0.85867 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path152-1" />
+      <path
+         d="m 38.564398,12.022772 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path154-2" />
+      <path
+         d="m 35.306498,14.238572 h 2.45851 v 0.85725 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path156-8" />
+      <path
+         d="m 34.967328,11.216942 h 2.4571 v 0.85866 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path158-9" />
+      <path
+         d="m 50.164438,20.884902 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path162-3" />
+      <path
+         d="m 50.164438,20.754022 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path164-6" />
+      <path
+         d="m 49.904088,16.063132 h 2.4571 v 0.85725 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path168-8" />
+      <path
+         d="m 4.81063,22.253322 h 2.45709 v 0.85866 H 4.81063 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path176-0" />
+      <path
+         d="m 4.9873,15.084402 h 2.4585104 v 0.85866 H 4.9873 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path178-2" />
+      <path
+         d="m 4.4194,16.779622 h 2.4585 v 0.85866 H 4.4194 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path180-1" />
+      <path
+         d="m 12.30433,22.188412 h 2.4571 v 0.85725 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path182-0" />
+      <path
+         d="m 11.78222,16.257512 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path184-5" />
+      <path
+         d="m 13.02082,12.608382 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path186-1" />
+      <path
+         d="m 20.02558,13.130492 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#d95f02;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path188-1" />
+      <path
+         d="m 22.5998,21.861742 h 2.458509 v 0.85866 H 22.5998 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path190-0" />
+      <path
+         d="m 16.21382,23.946662 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path192-8" />
+      <path
+         d="m 31.526489,23.621402 h 2.458509 v 0.85866 h -2.458509 z"
+         style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path194-5" />
+      <path
+         d="m 41.204588,19.776822 h 2.4571 v 0.85866 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path196-0" />
+      <path
+         d="m 43.041498,12.030882 h 2.4571 v 0.85725 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path198-6" />
+      <path
+         d="m 35.358618,15.895662 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path200-4" />
+      <path
+         d="m 30.614209,16.583832 h 2.458499 v 0.85866 h -2.458499 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path202-6" />
+      <path
+         d="m 24.555239,16.583832 h 2.4571 v 0.85866 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path204-2" />
+      <path
+         d="m 24.619799,12.087332 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path206-5" />
+      <path
+         d="m 31.592809,12.543472 h 2.458509 v 0.85866 h -2.458509 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path208-8" />
+      <path
+         d="m 41.952828,14.238572 h 2.45851 v 0.85725 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path210-6" />
+      <path
+         d="m 45.863728,15.671552 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#d95f02;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path212-2" />
+      <path
+         d="m 46.449338,19.516472 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path214-8" />
+      <path
+         d="m 47.817758,22.904912 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path216-4" />
+      <path
+         d="m 50.816368,13.455752 h 2.4571 v 0.85866 h -2.4571 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path226-7" />
+      <path
+         d="m 10.83819,18.571032 h 2.45709 v 0.85866 h -2.45709 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path246-2" />
+      <path
+         d="m 23.15366,14.563832 h 2.458509 v 0.85866 H 23.15366 Z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path248-4" />
+      <path
+         d="m 31.722279,20.754022 h 2.458509 v 0.85866 h -2.458509 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path250-0" />
+      <path
+         d="m 49.773208,18.343842 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path252-6" />
+      <path
+         d="m 38.043348,18.238482 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path278-2" />
+      <path
+         d="m 47.557408,12.803822 h 2.45851 v 0.85866 h -2.45851 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path288-9" />
+      <path
+         d="m 3.48566,18.691832 h 2.4585 v 0.85866 h -2.4585 z"
+         style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path270-6-9" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="14.571689"
+         y="9.3315821"
+         id="text10451-3"><tspan
+           sodipodi:role="line"
+           id="tspan10449-6"
+           x="14.571689"
+           y="9.3315821"
+           style="stroke-width:0.264583">Sequenced Reads</tspan></text>
+    </g>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.66928"
+       id="rect5071-3"
+       width="53.700817"
+       height="22.002337"
+       x="63.259209"
+       y="5.3124995"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 67.059433,15.099994 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path108-3-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 69.308393,16.899993 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path110-0-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 68.786283,21.19999 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path112-3-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 69.535582,22.399989 h 2.458511 v 0.9 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path114-0-62"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 73.022083,16.199993 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path116-9-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 77.387713,16.099993 h 2.4585 v 0.899999 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path118-2-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 75.954722,21.69999 h 2.458511 v 0.899999 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path120-5-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 81.559302,18.999991 h 2.458511 v 0.8 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path124-0-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 77.779293,18.999991 h 2.45851 v 0.8 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path126-5-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 74.782092,19.399991 h 2.458511 v 0.8 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path128-9-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 86.380722,19.999991 h 2.4585 v 0.899999 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path130-4-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 87.553701,21.999989 h 2.458511 v 0.8 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path132-6-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 92.181102,16.099993 h 2.458496 v 0.899999 h -2.458496 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path134-9-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 88.205282,16.499993 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path136-2-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 96.155498,21.29999 h 2.458501 v 0.899999 h -2.458501 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path138-2-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 98.891989,23.299989 h 2.458511 v 0.799999 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path140-4-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 91.594072,20.39999 h 2.45851 v 0.9 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path142-7-87"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 99.804269,16.999992 h 2.458511 v 0.9 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path146-5-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 105.53973,19.499991 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path148-4-02"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 103.97587,22.999989 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path150-8-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 101.75972,18.499992 h 2.45851 v 0.799999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path152-1-7"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 99.152689,13.599995 h 2.458511 v 0.899999 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path154-2-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 95.894788,15.899993 h 2.458511 v 0.8 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path156-8-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 95.555618,12.799995 h 2.457101 v 0.899999 h -2.457101 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path158-9-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 110.75273,22.499989 h 2.45851 v 0.9 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path162-3-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 110.75273,22.399989 h 2.45851 v 0.8 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path164-6-8"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 110.49238,17.699992 h 2.4571 v 0.8 h -2.4571 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path168-8-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 65.398913,23.899988 h 2.457089 v 0.8 h -2.457089 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path176-0-7"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 65.575583,16.699993 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path178-2-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 65.007682,18.399992 h 2.4585 v 0.899999 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path180-1-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 72.892613,23.799988 h 2.4571 v 0.9 h -2.4571 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path182-0-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 72.370503,17.899992 h 2.45851 v 0.799999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path184-5-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 73.609103,14.199994 h 2.45851 v 0.9 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path186-1-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 83.188083,23.499989 h 2.458509 v 0.799999 h -2.458509 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path190-0-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 76.802102,25.599987 h 2.4585 v 0.8 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path192-8-9"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 92.114772,25.199987 h 2.45851 v 0.9 h -2.45851 z"
+       style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path194-5-4"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 101.79288,21.39999 h 2.4571 v 0.799999 h -2.4571 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path196-0-7"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 103.62979,13.599995 h 2.4571 v 0.899999 h -2.4571 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path198-6-8"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 95.946908,17.499992 h 2.458501 v 0.9 h -2.458501 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path200-4-4"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 91.202492,18.199992 h 2.4585 v 0.899999 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path202-6-50"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 85.143522,18.199992 h 2.457099 v 0.899999 h -2.457099 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path204-2-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 85.208082,13.699994 h 2.45851 v 0.9 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path206-5-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 92.181092,14.199994 h 2.458506 v 0.8 h -2.458506 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path208-8-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 102.54112,15.899993 h 2.45851 v 0.8 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path210-6-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 107.03763,21.09999 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path214-8-3"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 108.40605,24.499988 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path216-4-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 111.40466,15.099994 h 2.4571 v 0.799999 h -2.4571 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path226-7-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 71.426472,20.199991 h 2.45709 v 0.799999 h -2.45709 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path246-2-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 83.741943,16.199993 h 2.458509 v 0.799999 h -2.458509 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path248-4-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 92.310562,22.399989 h 2.458506 v 0.8 h -2.458506 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path250-0-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 110.3615,19.999991 h 2.45851 v 0.799999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path252-6-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 98.631639,19.899991 h 2.458511 v 0.799999 h -2.458511 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path278-2-47"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 108.1457,14.399994 h 2.45851 v 0.899999 h -2.45851 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path288-9-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 64.073942,20.29999 h 2.4585 v 0.9 h -2.4585 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path270-6-9-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.100311"
+       y="9.625"
+       id="text10451-3-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan10449-6-9"
+         x="77.100311"
+         y="9.625"
+         style="stroke-width:0.264583">Dehosted Reads</tspan></text>
+    <path
+       d="m 105.53094,49.399973 v -2.399999 h 0.85866 v 2.399999 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       id="path216-4-2-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 106.3896,49.399973 v -3.899998 h 0.85866 v 3.899998 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.448066"
+       id="path216-4-2-0-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 107.24826,49.399973 v -1.299999 h 0.85866 v 1.299999 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26355"
+       id="path216-4-2-0-2-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 108.10692,49.399973 v -5.199997 h 0.85866 v 5.199997 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.513783"
+       id="path216-4-2-0-2-1-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 108.96558,49.399973 v -3.399998 h 0.85866 v 3.399998 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41558"
+       id="path216-4-2-0-2-1-0-5"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 109.82424,49.399973 v -1.799999 h 0.85866 v 1.799999 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.304428"
+       id="path216-4-2-0-2-1-0-5-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 110.6829,49.399973 v -1 h 0.85866 v 1 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.231253"
+       id="path216-4-2-0-2-1-0-5-1-1"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 111.54156,49.399973 v -1 h 0.85866 v 1 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.231253"
+       id="path216-4-2-0-2-1-0-5-1-1-0"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 112.40022,49.399973 v -2.599999 h 1.06821 v 2.599999 z"
+       style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.403681"
+       id="path216-4-2-0-2-1-0-5-1-1-0-8"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g5370"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.66928"
+         id="rect5071-33"
+         width="53.700817"
+         height="22.00235"
+         x="124.61118"
+         y="5.3124666" />
+      <g
+         id="g5307"
+         transform="translate(-2.9558583)">
+        <path
+           d="m 134.60023,23.495562 h 39.53572 v 2.08264 h -39.53572 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.657377"
+           id="path26-5-0" />
+        <path
+           d="m 135.63361,12.373003 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path112-3-5-3" />
+        <path
+           d="m 136.38291,13.611963 h 2.45851 v 0.85726 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path114-0-62-7" />
+        <path
+           d="m 155.56801,11.781833 h 2.45711 v 0.85866 h -2.45711 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path158-9-2-9" />
+        <path
+           d="m 134.60889,22.431112 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path176-0-7-8" />
+        <path
+           d="m 165.58151,21.407682 h 2.4585 v 0.85865 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path140-4-1-8" />
+        <path
+           d="m 165.58151,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#66a61e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path194-5-4-0" />
+        <path
+           d="m 145.22049,12.652223 h 2.45851 v 0.85865 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path206-5-6-2" />
+        <path
+           d="m 152.1935,13.108353 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path208-8-1-7" />
+        <path
+           d="m 168.1581,13.368703 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path288-9-6-4" />
+        <path
+           d="m 168.67883,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4" />
+        <path
+           d="m 168.67884,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6" />
+        <path
+           d="m 168.67883,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9" />
+        <path
+           d="m 171.77616,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path162-3-2-2" />
+        <path
+           d="m 171.77616,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path164-6-8-0" />
+        <path
+           d="m 171.77687,20.384952 h 2.45709 v 0.85725 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path168-8-9-6" />
+        <path
+           d="m 171.77687,19.360792 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path226-7-0-1" />
+        <path
+           d="m 171.77616,18.337362 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-1" />
+        <path
+           d="m 171.77616,17.313912 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-7" />
+        <path
+           d="m 162.48418,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path162-3-2-2-1" />
+        <path
+           d="m 162.48418,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path164-6-8-0-1" />
+        <path
+           d="m 162.48489,20.384952 h 2.45709 v 0.85725 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path168-8-9-6-5" />
+        <path
+           d="m 162.48489,19.360792 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path226-7-0-1-9" />
+        <path
+           d="m 162.48418,18.337362 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-1-7" />
+        <path
+           d="m 162.48418,17.313912 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-7-7" />
+        <path
+           d="m 156.2895,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path162-3-2-2-1-7-4" />
+        <path
+           d="m 156.2895,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path164-6-8-0-1-3-8" />
+        <path
+           d="m 156.29021,20.384952 h 2.45709 v 0.85725 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path168-8-9-6-5-6-1" />
+        <path
+           d="m 156.29021,19.360792 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path226-7-0-1-9-5-2" />
+        <path
+           d="m 156.2895,18.337362 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-1-7-6-9" />
+        <path
+           d="m 156.2895,17.313912 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-7-7-3-3" />
+        <path
+           d="m 150.09484,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path162-3-2-2-1-7-8" />
+        <path
+           d="m 150.09484,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path164-6-8-0-1-3-85" />
+        <path
+           d="m 150.09555,20.384952 h 2.45709 v 0.85725 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path168-8-9-6-5-6-0" />
+        <path
+           d="m 150.09555,19.360792 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path226-7-0-1-9-5-9" />
+        <path
+           d="m 150.09484,18.337362 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-1-7-6-6" />
+        <path
+           d="m 150.09484,17.313912 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-7-7-3-38" />
+        <path
+           d="m 137.70552,22.431112 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path162-3-2-2-1-7-6" />
+        <path
+           d="m 137.70552,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path164-6-8-0-1-3-1" />
+        <path
+           d="m 137.70623,20.384952 h 2.45709 v 0.85725 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path168-8-9-6-5-6-15" />
+        <path
+           d="m 137.70623,19.360792 h 2.45709 v 0.85866 h -2.45709 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path226-7-0-1-9-5-98" />
+        <path
+           d="m 137.70552,18.337362 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-1-7-6-4" />
+        <path
+           d="m 159.38684,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-0" />
+        <path
+           d="m 159.38685,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6-3" />
+        <path
+           d="m 159.38684,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-0" />
+        <path
+           d="m 153.19218,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-4" />
+        <path
+           d="m 153.19219,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6-4" />
+        <path
+           d="m 153.19218,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-4" />
+        <path
+           d="m 146.99751,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-6" />
+        <path
+           d="m 146.99752,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6-31" />
+        <path
+           d="m 146.99751,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-75" />
+        <path
+           d="m 143.90018,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-62" />
+        <path
+           d="m 143.90019,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6-1" />
+        <path
+           d="m 143.90018,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-78" />
+        <path
+           d="m 140.80285,21.407672 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-7" />
+        <path
+           d="m 140.80286,22.431112 h 2.4585 v 0.85866 h -2.4585 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path216-4-2-6-41" />
+        <path
+           d="m 140.80285,20.384242 h 2.45851 v 0.85866 h -2.45851 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+           id="path150-8-3-4-9-8" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="132.12247"
+         y="9.3315821"
+         id="text10451-3-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan10449-6-9-5"
+           x="132.12247"
+           y="9.3315821"
+           style="stroke-width:0.264583">Map Reads to Reference</tspan></text>
+    </g>
+    <g
+       id="g5384"
+       transform="translate(-1.2827253)"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.66928"
+         id="rect5071-33-8"
+         width="53.700817"
+         height="22.00235"
+         x="125.87543"
+         y="32.975777" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="131.76665"
+         y="37.353539"
+         id="text10451-3-5-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan10449-6-9-5-8"
+           x="131.76665"
+           y="37.353539"
+           style="stroke-width:0.264583">iVar Consensus + Variants</tspan></text>
+      <g
+         id="g5126"
+         transform="translate(-8.7866042)">
+        <path
+           d="m 136.02306,47.859132 h 50.97876 v 2.43851 h -50.97876 z"
+           style="fill:#7570b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.807737"
+           id="path26-5-0-8" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015"
+           width="0.75461346"
+           height="2.430661"
+           x="137.6368"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-3"
+           width="0.75461346"
+           height="2.430661"
+           x="151.62437"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-1"
+           width="0.75461346"
+           height="2.430661"
+           x="159.66924"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-8"
+           width="0.75461346"
+           height="2.430661"
+           x="185.27061"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-9"
+           width="0.75461346"
+           height="2.430661"
+           x="179.0036"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-6"
+           width="0.75461346"
+           height="2.430661"
+           x="171.18097"
+           y="47.863068" />
+        <rect
+           style="fill:#e7298a;fill-opacity:1;stroke:none;stroke-width:91.1896"
+           id="rect5015-4"
+           width="0.75461346"
+           height="2.430661"
+           x="141.63834"
+           y="47.863068" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.757086;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker13081)"
+       d="M 61.950579,16.299993 H 55.529243"
+       id="path12569"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.757087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker13081-5)"
+       d="m 123.40218,16.299993 h -6.42134"
+       id="path12569-6"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.757087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker13081-4)"
+       d="m 118.13864,43.999976 h 6.42134"
+       id="path12569-2"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.640606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker13081-58)"
+       d="M 151.43696,31.999983 V 27.399986"
+       id="path12569-8"
+       inkscape:export-filename="/home/fin/Documents/research/presentations/sarscov2/assembly.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

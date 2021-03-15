@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="129.1185mm"
+   height="85.968147mm"
+   viewBox="0 0 129.1185 85.968148"
+   version="1.1"
+   id="svg123318"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="donald_hill.svg"
+   inkscape:export-filename="/home/fin/Documents/research/presentations/dal_health_data_science_talk/teaching_seminar/donald_hill_4.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs123312">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26226" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26217" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26223-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26226-0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3339963"
+     inkscape:cx="220.07695"
+     inkscape:cy="165.37733"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g124928"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="476"
+     inkscape:window-height="757"
+     inkscape:window-x="3360"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata123315">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(28.293298,-9.8518385)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="102.10514"
+       y="38.601009"
+       id="text123901"><tspan
+         sodipodi:role="line"
+         id="tspan123899"
+         x="102.10514"
+         y="38.601009"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g124928"
+       transform="matrix(0.947878,0,0,0.947878,2.9331119,2.7539136)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.981006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart-4);marker-end:url(#Arrow1Send-1)"
+         d="m 36.215192,84.1948 c 0,-3.000051 0,-21.30218 0,-21.30218"
+         id="path124583-3"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g124562"
+         transform="matrix(0.98100585,0,0,0.98100585,1.0688764,2.0582282)">
+        <g
+           id="g124541"
+           transform="translate(4.5185186)">
+          <text
+             xml:space="preserve"
+             style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+             x="60.946312"
+             y="70.907097"
+             id="text123935"><tspan
+               sodipodi:role="line"
+               x="60.946312"
+               y="70.907097"
+               style="stroke-width:0.264583"
+               id="tspan124143">`Incel' Isolation and </tspan><tspan
+               sodipodi:role="line"
+               x="60.946312"
+               y="74.0821"
+               style="stroke-width:0.264583"
+               id="tspan124145">Radicalisation on </tspan><tspan
+               sodipodi:role="line"
+               x="60.946312"
+               y="77.257095"
+               style="stroke-width:0.264583"
+               id="tspan124408">Social Media</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 56.460258,66.638646 h 2.738074 v 12.392478 h -2.744695"
+             id="path124147-3"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g124548"
+           transform="translate(3.7557115)">
+          <rect
+             style="fill:#ccebc5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.47845;stroke-linejoin:round"
+             id="rect124173-9"
+             width="45.466408"
+             height="13.343415"
+             x="9.5121632"
+             y="66.163177" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+             x="14.558073"
+             y="70.507896"
+             id="text123907"><tspan
+               sodipodi:role="line"
+               id="tspan123905"
+               x="14.558073"
+               y="70.507896"
+               style="stroke-width:0.264583">SSHRC:</tspan><tspan
+               sodipodi:role="line"
+               x="14.558073"
+               y="73.682899"
+               style="stroke-width:0.264583"
+               id="tspan124119">- Explore</tspan><tspan
+               sodipodi:role="line"
+               x="14.558073"
+               y="76.857895"
+               style="stroke-width:0.264583"
+               id="tspan123909">- Insight Development</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.981006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send)"
+         d="M 36.215192,47.961704 V 21.51788"
+         id="path124583"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g124434"
+         transform="matrix(0.98100585,0,0,0.98100585,-6.4115243,3.7347841)">
+        <rect
+           style="fill:#fbb4ae;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.615415;stroke-linejoin:round"
+           id="rect123945-5-8"
+           width="52.840866"
+           height="11.134465"
+           x="17.205881"
+           y="47.159939"
+           rx="5.5672326"
+           ry="5.5672326" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.552px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#bf202f;fill-opacity:1;stroke-width:0.379;stroke-miterlimit:4;stroke-dasharray:none"
+           x="22.758905"
+           y="53.982971"
+           id="text123885"><tspan
+             sodipodi:role="line"
+             id="tspan123883"
+             x="22.758905"
+             y="53.982971"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.379;stroke-miterlimit:4;stroke-dasharray:none">Computer Science</tspan></text>
+      </g>
+      <g
+         id="g124581"
+         transform="translate(0,0.71857909)">
+        <g
+           id="g124483"
+           transform="translate(-3.7124381)">
+          <rect
+             style="fill:#ccebc5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.573788;stroke-linejoin:round"
+             id="rect124173"
+             width="44.602814"
+             height="19.562569"
+             x="17.797176"
+             y="24.286819" />
+          <text
+             xml:space="preserve"
+             style="font-size:2.89366px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.241138"
+             x="20.018852"
+             y="27.355585"
+             id="text124123"><tspan
+               sodipodi:role="line"
+               x="20.018852"
+               y="27.355585"
+               style="stroke-width:0.241138"
+               id="tspan124125">CIHR:</tspan><tspan
+               sodipodi:role="line"
+               x="20.018852"
+               y="30.249249"
+               style="stroke-width:0.241138"
+               id="tspan124129">- Emerging Variant Network</tspan><tspan
+               sodipodi:role="line"
+               x="20.018852"
+               y="33.14291"
+               style="stroke-width:0.241138"
+               id="tspan124133">- Project Grant</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.11469px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.259557"
+             x="23.860506"
+             y="41.470055"
+             id="text124139"><tspan
+               sodipodi:role="line"
+               id="tspan124137"
+               x="23.860506"
+               y="41.470055"
+               style="stroke-width:0.259557">NFRF Transformation</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:2.88434px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.27383"
+             x="19.665434"
+             y="36.757023"
+             id="text192756"><tspan
+               sodipodi:role="line"
+               id="tspan192754"
+               x="19.665434"
+               y="36.757023"
+               style="font-size:2.88434px;stroke-width:0.27383">GC National Genome Portal</tspan></text>
+          <g
+             id="g124524"
+             transform="translate(4.5714287)">
+            <text
+               xml:space="preserve"
+               style="font-size:3.11469px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.259557"
+               x="64.525627"
+               y="32.090469"
+               id="text123927"><tspan
+                 sodipodi:role="line"
+                 id="tspan123925"
+                 x="64.525627"
+                 y="32.090469"
+                 style="stroke-width:0.259557">SARS-CoV-2</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:3.11469px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.259557"
+               x="64.706612"
+               y="40.335262"
+               id="text123931"><tspan
+                 sodipodi:role="line"
+                 id="tspan123929"
+                 x="64.706612"
+                 y="40.335262"
+                 style="stroke-width:0.259557">Antimicrobial </tspan><tspan
+                 sodipodi:role="line"
+                 x="64.706612"
+                 y="43.449955"
+                 style="stroke-width:0.259557"
+                 id="tspan123937">Resistance Stewardship</tspan></text>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.03495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 60.058939,25.126013 h 2.73212 v 11.661328 h -2.738727"
+               id="path124147"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.03495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 60.03065,38.500726 h 2.780197 v 4.867779 h -2.78692"
+               id="path124147-6"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g124429"
+         transform="matrix(0.98100585,0,0,0.98100585,0.45504982,1.0035735)">
+        <rect
+           style="fill:#b3cde3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.615415;stroke-linejoin:round"
+           id="rect123945-5-8-5"
+           width="52.840866"
+           height="11.134465"
+           x="10.206357"
+           y="86.741425"
+           rx="5.5672326"
+           ry="5.5672326" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.552px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.379333"
+           x="20.303602"
+           y="94.005653"
+           id="text123889-6"><tspan
+             sodipodi:role="line"
+             id="tspan123887-1"
+             x="20.303602"
+             y="94.005653"
+             style="stroke-width:0.379333">Social Science</tspan></text>
+      </g>
+      <g
+         id="g124439"
+         transform="matrix(0.98100585,0,0,0.98100585,1.0688764,1.0035735)">
+        <rect
+           style="fill:#b3cde3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.615415;stroke-linejoin:round"
+           id="rect123945-5-8-5-9"
+           width="52.840866"
+           height="11.134465"
+           x="9.5806456"
+           y="7.7959337"
+           rx="5.5672326"
+           ry="5.5672326" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.552px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.379333"
+           x="25.731295"
+           y="15.060164"
+           id="text123889"><tspan
+             sodipodi:role="line"
+             id="tspan123887"
+             x="25.731295"
+             y="15.060164"
+             style="stroke-width:0.379333">Medicine</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="13.408171"
+       y="5.176054"
+       id="text124443"><tspan
+         sodipodi:role="line"
+         id="tspan124441"
+         x="13.408171"
+         y="5.176054"
+         style="stroke-width:0.264583" /></text>
+  </g>
+</svg>
