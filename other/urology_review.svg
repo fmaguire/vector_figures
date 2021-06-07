@@ -7,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="165.30998mm"
-   height="71.827095mm"
-   viewBox="0 0 165.30998 71.827095"
+   width="163.7971mm"
+   height="85.237671mm"
+   viewBox="0 0 163.7971 85.237671"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="urology_review.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="urology_review.svg"
+   inkscape:export-filename="/home/fin/Documents/research/FPRMS_cannibinoid.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <marker
@@ -323,25 +326,39 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path12697-5" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3464-7-6" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="284.85957"
-     inkscape:cy="36.247068"
+     inkscape:zoom="0.35"
+     inkscape:cx="-361.77628"
+     inkscape:cy="-201.31192"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="380"
-     inkscape:window-height="1040"
-     inkscape:window-x="3072"
-     inkscape:window-y="18"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showborder="false" />
   <metadata
@@ -360,19 +377,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-13.971873,-2.6543785)">
-    <rect
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.724154;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect14584"
-       width="57.81599"
-       height="33.725285"
-       x="117.3544"
-       y="3.0218508"
-       rx="1.9721863"
-       ry="2.2776046"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+     transform="translate(-11.735367,-2.6597738)">
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
@@ -384,75 +389,6 @@
          x="67.427216"
          y="82.803612"
          style="stroke-width:0.264583" /></text>
-    <circle
-       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.608887;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path863-3"
-       cx="121.39926"
-       cy="13.332856"
-       r="2.3482521"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
-       x="125.50253"
-       y="14.17674"
-       id="text851"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan849"
-         x="125.50253"
-         y="14.17674"
-         style="stroke-width:0.254907">2-Arachidonoylglycerol (2-AG)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
-       x="125.70265"
-       y="7.5770679"
-       id="text847"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan845"
-         x="125.70265"
-         y="7.5770679"
-         style="stroke-width:0.254907">Arachionoylethanolamine (AEA)</tspan></text>
-    <circle
-       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.608887;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path863"
-       cx="121.39926"
-       cy="6.7331848"
-       r="2.3482521"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
-       x="125.42635"
-       y="20.776403"
-       id="text855"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan853"
-         x="125.42635"
-         y="20.776403"
-         style="stroke-width:0.254907">Palmitoylethanolamine (PEA)</tspan></text>
-    <circle
-       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.608887;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path863-6"
-       cx="121.39926"
-       cy="19.932528"
-       r="2.3482521"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
        id="text1095"
@@ -483,162 +419,144 @@
              style="stroke-width:0.264583">Synergistic</tspan></text>
       </g>
     </g>
-    <g
-       id="g13571"
-       transform="matrix(0.96342911,0,0,0.96342911,3.0997444,6.4591608)"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2"
-         sodipodi:type="arc"
-         sodipodi:cx="134.81071"
-         sodipodi:cy="47.010448"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 132.99742,47.788565 a 1.9731985,1.9731985 0 0 1 1.03218,-2.590124 1.9731985,1.9731985 0 0 1 2.59183,1.027897 1.9731985,1.9731985 0 0 1 -1.02361,2.593525 1.9731985,1.9731985 0 0 1 -2.59522,-1.01932" />
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2-9"
-         sodipodi:type="arc"
-         sodipodi:cx="136.686"
-         sodipodi:cy="53.885963"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 134.87271,54.66408 a 1.9731985,1.9731985 0 0 1 1.03218,-2.590124 1.9731985,1.9731985 0 0 1 2.59183,1.027897 1.9731985,1.9731985 0 0 1 -1.02361,2.593525 1.9731985,1.9731985 0 0 1 -2.59522,-1.01932" />
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2-2"
-         sodipodi:type="arc"
-         sodipodi:cx="130.64267"
-         sodipodi:cy="51.28503"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 128.82937,52.063147 a 1.9731985,1.9731985 0 0 1 1.03219,-2.590125 1.9731985,1.9731985 0 0 1 2.59182,1.027898 1.9731985,1.9731985 0 0 1 -1.02361,2.593525 1.9731985,1.9731985 0 0 1 -2.59521,-1.01932" />
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2-28"
-         sodipodi:type="arc"
-         sodipodi:cx="135.15605"
-         sodipodi:cy="41.11079"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 133.34275,41.888907 a 1.9731985,1.9731985 0 0 1 1.03219,-2.590125 1.9731985,1.9731985 0 0 1 2.59183,1.027898 1.9731985,1.9731985 0 0 1 -1.02362,2.593525 1.9731985,1.9731985 0 0 1 -2.59521,-1.01932" />
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2-28-0"
-         sodipodi:type="arc"
-         sodipodi:cx="129.76825"
-         sodipodi:cy="45.545162"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 127.95495,46.323279 a 1.9731985,1.9731985 0 0 1 1.03218,-2.590125 1.9731985,1.9731985 0 0 1 2.59183,1.027898 1.9731985,1.9731985 0 0 1 -1.02361,2.593525 1.9731985,1.9731985 0 0 1 -2.59521,-1.01932" />
-      <circle
-         style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.511638;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-6-2-28-6"
-         sodipodi:type="arc"
-         sodipodi:cx="140.99356"
-         sodipodi:cy="49.42057"
-         sodipodi:rx="1.9731985"
-         sodipodi:ry="1.9731985"
-         sodipodi:start="2.7362399"
-         sodipodi:end="2.7296251"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="m 139.18026,50.198687 a 1.9731985,1.9731985 0 0 1 1.03219,-2.590125 1.9731985,1.9731985 0 0 1 2.59182,1.027898 1.9731985,1.9731985 0 0 1 -1.02361,2.593525 1.9731985,1.9731985 0 0 1 -2.59521,-1.01932" />
-    </g>
-    <g
-       id="g13841"
-       transform="matrix(0.96342911,0,0,0.96342911,2.7906969,2.9577545)"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <g
-         id="g2030"
-         transform="translate(0,2.1017002)">
-        <rect
-           style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect5103"
-           width="12.010832"
-           height="6.0054159"
-           x="57.196396"
-           y="18.794394"
-           rx="2.1950467"
-           ry="2.1950467" />
-        <text
-           xml:space="preserve"
-           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           x="59.786518"
-           y="22.952845"
-           id="text1103"><tspan
-             sodipodi:role="line"
-             id="tspan1101"
-             x="59.786518"
-             y="22.952845"
-             style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">CBD</tspan></text>
-        <rect
-           style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect5103-1"
-           width="12.010832"
-           height="6.0054159"
-           x="74.943405"
-           y="18.794394"
-           rx="2.1950467"
-           ry="2.1950467" />
-        <text
-           xml:space="preserve"
-           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           x="77.767624"
-           y="22.952845"
-           id="text5101"><tspan
-             sodipodi:role="line"
-             id="tspan5099"
-             x="77.767624"
-             y="22.952845"
-             style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">THC</tspan></text>
-      </g>
-      <rect
-         style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5103-1-3"
-         width="12.010832"
-         height="6.0054159"
-         x="75.611244"
-         y="0.8143878"
-         rx="2.1950467"
-         ry="2.1950467" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-         x="78.435455"
-         y="4.9728394"
-         id="text5101-6"><tspan
-           sodipodi:role="line"
-           id="tspan5099-7"
-           x="78.435455"
-           y="4.9728394"
-           style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">THC</tspan></text>
-    </g>
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2"
+       sodipodi:type="arc"
+       sodipodi:cx="132.98032"
+       sodipodi:cy="51.750397"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 131.23333,52.500057 a 1.9010369,1.9010369 0 0 1 0.99444,-2.495401 1.9010369,1.9010369 0 0 1 2.49704,0.990306 1.9010369,1.9010369 0 0 1 -0.98618,2.498677 1.9010369,1.9010369 0 0 1 -2.5003,-0.982042" />
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2-9"
+       sodipodi:type="arc"
+       sodipodi:cx="134.78702"
+       sodipodi:cy="58.374466"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 133.04003,59.124126 a 1.9010369,1.9010369 0 0 1 0.99444,-2.495401 1.9010369,1.9010369 0 0 1 2.49704,0.990307 1.9010369,1.9010369 0 0 1 -0.98617,2.498677 1.9010369,1.9010369 0 0 1 -2.50031,-0.982043" />
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2-2"
+       sodipodi:type="arc"
+       sodipodi:cx="128.96469"
+       sodipodi:cy="55.868652"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 127.21771,56.618313 a 1.9010369,1.9010369 0 0 1 0.99443,-2.495402 1.9010369,1.9010369 0 0 1 2.49705,0.990307 1.9010369,1.9010369 0 0 1 -0.98618,2.498677 1.9010369,1.9010369 0 0 1 -2.5003,-0.982043" />
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2-28"
+       sodipodi:type="arc"
+       sodipodi:cx="133.31302"
+       sodipodi:cy="46.066494"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 131.56604,46.816154 a 1.9010369,1.9010369 0 0 1 0.99443,-2.495401 1.9010369,1.9010369 0 0 1 2.49704,0.990307 1.9010369,1.9010369 0 0 1 -0.98617,2.498677 1.9010369,1.9010369 0 0 1 -2.50031,-0.982043" />
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2-28-0"
+       sodipodi:type="arc"
+       sodipodi:cx="128.12225"
+       sodipodi:cy="50.338696"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 126.37527,51.088356 a 1.9010369,1.9010369 0 0 1 0.99443,-2.495402 1.9010369,1.9010369 0 0 1 2.49705,0.990307 1.9010369,1.9010369 0 0 1 -0.98618,2.498677 1.9010369,1.9010369 0 0 1 -2.5003,-0.982043" />
+    <circle
+       style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-6-2-28-6"
+       sodipodi:type="arc"
+       sodipodi:cx="138.93704"
+       sodipodi:cy="54.072376"
+       sodipodi:rx="1.9010369"
+       sodipodi:ry="1.9010369"
+       sodipodi:start="2.7362399"
+       sodipodi:end="2.7296251"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 137.19006,54.822037 a 1.9010369,1.9010369 0 0 1 0.99443,-2.495402 1.9010369,1.9010369 0 0 1 2.49705,0.990307 1.9010369,1.9010369 0 0 1 -0.98618,2.498677 1.9010369,1.9010369 0 0 1 -2.5003,-0.982043" />
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.481715;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5103"
+       width="11.571585"
+       height="5.7857924"
+       x="57.89537"
+       y="23.089659"
+       rx="2.1147718"
+       ry="2.1147718" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none"
+       x="60.39077"
+       y="27.096033"
+       id="text1103"><tspan
+         sodipodi:role="line"
+         id="tspan1101"
+         x="60.39077"
+         y="27.096033"
+         style="stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none">CBD</tspan></text>
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.481715;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5103-1"
+       width="11.571585"
+       height="5.7857924"
+       x="74.993355"
+       y="23.089659"
+       rx="2.1147718"
+       ry="2.1147718" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none"
+       x="77.714287"
+       y="27.096033"
+       id="text5101"><tspan
+         sodipodi:role="line"
+         id="tspan5099"
+         x="77.714287"
+         y="27.096033"
+         style="stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none">THC</tspan></text>
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.481715;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5103-1-3"
+       width="11.571585"
+       height="5.7857924"
+       x="75.636772"
+       y="3.7423594"
+       rx="2.1147718"
+       ry="2.1147718" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none"
+       x="78.357697"
+       y="7.7487326"
+       id="text5101-6"><tspan
+         sodipodi:role="line"
+         id="tspan5099-7"
+         x="78.357697"
+         y="7.7487326"
+         style="stroke-width:0.481715;stroke-miterlimit:4;stroke-dasharray:none">THC</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.722572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3)"
        d="m 72.230154,30.447298 v 8.379199"
@@ -649,7 +567,7 @@
        inkscape:export-ydpi="300" />
     <g
        id="g13786"
-       transform="matrix(0.96342911,0,0,0.96342911,10.503897,2.0887843)"
+       transform="matrix(0.96342911,0,0,0.96342911,10.503897,12.68634)"
        inkscape:export-filename="/home/fin/urology.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -776,52 +694,8 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.722572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StopM)"
-       d="m 119.46554,25.512515 h 3.67476"
-       id="path4761-4-6"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
-       x="125.42635"
-       y="26.356398"
-       id="text11040"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan11038"
-         x="125.42635"
-         y="26.356398"
-         style="stroke-width:0.254907">Inhibitors/antagonists</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.722572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DiamondS)"
-       d="m 118.98283,29.919965 h 3.67476"
-       id="path4761-4-6-4"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
-       x="125.70265"
-       y="30.763847"
-       id="text11443"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan11441"
-         x="125.70265"
-         y="30.763847"
-         style="stroke-width:0.254907">Agonists</tspan></text>
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.723, 0.723;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11565)"
-       d="M 121.87724,67.689862 H 101.07116"
+       d="M 121.87724,78.287417 H 101.07116"
        id="path11711"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/fin/urology.png"
@@ -831,7 +705,7 @@
        xml:space="preserve"
        style="font-size:3.05889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
        x="107.63303"
-       y="71.138802"
+       y="81.736351"
        id="text12043-2"
        inkscape:export-filename="/home/fin/urology.png"
        inkscape:export-xdpi="300"
@@ -839,16 +713,21 @@
          sodipodi:role="line"
          id="tspan12041-0"
          x="107.63303"
-         y="71.138802"
+         y="81.736351"
          style="stroke-width:0.254907">DO</tspan><tspan
          sodipodi:role="line"
          x="107.63303"
-         y="74.197693"
+         y="84.795242"
          style="stroke-width:0.254907"
          id="tspan12047-6">IC/BPS</tspan><tspan
          sodipodi:role="line"
          x="107.63303"
-         y="77.256584"
+         y="87.854134"
+         style="stroke-width:0.254907"
+         id="tspan1879">CPP</tspan><tspan
+         sodipodi:role="line"
+         x="107.63303"
+         y="90.913025"
          style="stroke-width:0.254907"
          id="tspan12045-8" /></text>
     <circle
@@ -861,29 +740,22 @@
        inkscape:export-filename="/home/fin/urology.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <g
-       id="g2245"
-       transform="translate(0,0.13729421)"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <text
-         xml:space="preserve"
-         style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+    <text
+       xml:space="preserve"
+       style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+       x="82.947327"
+       y="16.69326"
+       id="text12539"><tspan
+         sodipodi:role="line"
+         id="tspan12537"
          x="82.947327"
-         y="16.555965"
-         id="text12539"><tspan
-           sodipodi:role="line"
-           id="tspan12537"
-           x="82.947327"
-           y="16.555965"
-           style="stroke-width:0.254907">CPP</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.723, 0.723;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12551)"
-         d="m 81.347788,11.376729 v 8.298962"
-         id="path12541"
-         sodipodi:nodetypes="cc" />
-    </g>
+         y="16.69326"
+         style="stroke-width:0.254907">CPP</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.723, 0.723;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12551)"
+       d="m 81.347788,11.514023 v 8.298962"
+       id="path12541"
+       sodipodi:nodetypes="cc" />
     <circle
        style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path863-6-2-9-2"
@@ -1110,141 +982,287 @@
          x="21.508926"
          y="34.93605"
          style="stroke-width:0.264583">IC/BPS</tspan></text>
-    <g
-       id="g1940"
-       transform="translate(0.2486979,3.3392011)"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7"
-         cx="71.555244"
-         cy="47.947796"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6"
-         cx="57.990227"
-         cy="46.945686"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-3"
-         cx="60.388004"
-         cy="53.58466"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-1"
-         cx="64.05468"
-         cy="49.366386"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-9"
-         cx="63.153446"
-         cy="43.315247"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-4"
-         cx="88.873535"
-         cy="56.080345"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-7"
-         cx="80.534378"
-         cy="55.932514"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-8"
-         cx="90.351517"
-         cy="44.966049"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-4"
-         cx="84.007393"
-         cy="50.987392"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-5"
-         cx="90.974136"
-         cy="50.818687"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-0"
-         cx="72.781929"
-         cy="58.155479"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-3"
-         cx="76.953011"
-         cy="51.385166"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-6"
-         cx="66.288284"
-         cy="56.249741"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-1"
-         cx="54.092319"
-         cy="53.503269"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-06"
-         cx="56.072327"
-         cy="42.414013"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.493276;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-9-3"
-         cx="73.324509"
-         cy="41.641529"
-         r="1.9010369" />
-      <circle
-         style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-0-3-6-9-2"
-         cx="79.155731"
-         cy="45.783623"
-         r="1.9010369" />
-      <circle
-         style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path863-3-7-06-5"
-         cx="83.679459"
-         cy="42.341877"
-         r="1.9010369" />
-    </g>
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7"
+       cx="71.80394"
+       cy="51.286999"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6"
+       cx="58.238926"
+       cy="50.284889"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-3"
+       cx="60.636703"
+       cy="56.923862"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-1"
+       cx="64.303375"
+       cy="52.705589"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-9"
+       cx="63.402145"
+       cy="46.654449"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-4"
+       cx="89.122231"
+       cy="59.419548"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-7"
+       cx="80.783073"
+       cy="59.271717"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-8"
+       cx="90.600212"
+       cy="48.305252"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-4"
+       cx="84.256088"
+       cy="54.326595"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-5"
+       cx="91.222832"
+       cy="54.15789"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-0"
+       cx="73.030624"
+       cy="61.494682"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-3"
+       cx="77.201706"
+       cy="54.724369"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-6"
+       cx="66.53698"
+       cy="59.588943"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-1"
+       cx="54.341019"
+       cy="56.842472"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-06"
+       cx="56.321026"
+       cy="45.753216"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.493276;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-9-3"
+       cx="73.573204"
+       cy="44.980732"
+       r="1.9010369" />
+    <circle
+       style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-0-3-6-9-2"
+       cx="79.404427"
+       cy="49.122826"
+       r="1.9010369" />
+    <circle
+       style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863-3-7-06-5"
+       cx="83.928154"
+       cy="45.68108"
+       r="1.9010369" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="21.875704"
+       y="93.140709"
+       id="text1718"><tspan
+         sodipodi:role="line"
+         x="21.875704"
+         y="93.140709"
+         style="stroke-width:0.264583"
+         id="tspan1882" /></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 119.35875,34.23074 h 4.08103"
-       id="path2569"
+       style="fill:none;stroke:#000000;stroke-width:0.723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11565-6)"
+       d="m 72.230154,65.794558 v 8.379199"
+       id="path4761-4-5"
+       sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/fin/urology.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="125.73586"
-       y="35.106655"
-       id="text2585"
-       inkscape:export-filename="/home/fin/urology.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan2583"
-         x="125.73586"
-         y="35.106655"
-         style="stroke-width:0.264583">Trial Therapies</tspan></text>
+    <g
+       id="g3725">
+      <rect
+         style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:0.724154;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect14584"
+         width="57.81599"
+         height="33.725285"
+         x="117.3544"
+         y="3.0218508"
+         rx="1.9721863"
+         ry="2.2776046"
+         inkscape:export-filename="/home/fin/urology.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         id="g3667"
+         transform="translate(-0.63503073,0.27476323)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+           x="125.56361"
+           y="12.957273"
+           id="text851"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan849"
+             x="125.56361"
+             y="12.957273"
+             style="stroke-width:0.254907">2-Arachidonoylglycerol (2-AG)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+           x="125.76375"
+           y="7.5770679"
+           id="text847"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan845"
+             x="125.76375"
+             y="7.5770679"
+             style="stroke-width:0.254907">Arachionoylethanolamine (AEA)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+           x="125.48743"
+           y="18.337481"
+           id="text855"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan853"
+             x="125.48743"
+             y="18.337481"
+             style="stroke-width:0.254907">Palmitoylethanolamine (PEA)</tspan></text>
+        <circle
+           style="fill:#bebada;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path863-6-2-28-9"
+           sodipodi:type="arc"
+           sodipodi:cx="122.11769"
+           sodipodi:cy="17.493605"
+           sodipodi:rx="1.9010369"
+           sodipodi:ry="1.9010369"
+           sodipodi:start="2.7362399"
+           sodipodi:end="2.7296251"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           d="m 120.37071,18.243265 a 1.9010369,1.9010369 0 0 1 0.99443,-2.495401 1.9010369,1.9010369 0 0 1 2.49705,0.990306 1.9010369,1.9010369 0 0 1 -0.98618,2.498677 1.9010369,1.9010369 0 0 1 -2.50031,-0.982042" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.722572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#StopM)"
+           d="m 119.76781,27.957526 h 4.00363"
+           id="path4761-4-6"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+           x="125.48743"
+           y="29.097889"
+           id="text11040"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan11038"
+             x="125.48743"
+             y="29.097889"
+             style="stroke-width:0.254907">Inhibition</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.722572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DiamondS)"
+           d="M 119.70124,22.873804 H 123.376"
+           id="path4761-4-6-4"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.05889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.254907"
+           x="125.76375"
+           y="23.717686"
+           id="text11443"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan11441"
+             x="125.76375"
+             y="23.717686"
+             style="stroke-width:0.254907">Agonist</tspan></text>
+        <circle
+           style="fill:#ffffb3;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path863-0-3-6-8-2"
+           cx="122.11768"
+           cy="12.113389"
+           r="1.9010369" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 120.07717,33.097439 h 4.08103"
+           id="path2569"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+           x="125.79695"
+           y="33.973351"
+           id="text2585"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan2583"
+             x="125.79695"
+             y="33.973351"
+             style="stroke-width:0.264583">Trial Therapies</tspan></text>
+        <circle
+           style="fill:#8dd3c7;fill-opacity:1;stroke:#000000;stroke-width:0.492927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path863-3-7-5-9-6"
+           cx="-122.11768"
+           cy="6.7331848"
+           r="1.9010369"
+           transform="scale(-1,1)"
+           inkscape:export-filename="/home/fin/urology.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+    </g>
   </g>
 </svg>
