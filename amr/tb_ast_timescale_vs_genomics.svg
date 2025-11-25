@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="155.92371mm"
    height="92.446869mm"
    viewBox="0 0 155.92371 92.44687"
@@ -15,8 +8,15 @@
    inkscape:export-filename="/home/fin/Documents/research/presentations/dal_health_data_science_talk/job_talk/tb_ast_4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="tb_ast.svg">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="tb_ast_timescale_vs_genomics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1438">
     <marker
@@ -83,19 +83,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3191611"
-     inkscape:cx="416.06127"
-     inkscape:cy="98.054916"
+     inkscape:zoom="0.75771318"
+     inkscape:cx="-453.99764"
+     inkscape:cy="355.67548"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3116"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     showguides="false" />
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1441">
     <rdf:RDF>
@@ -116,108 +119,57 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
-       x="17.209263"
+       x="24.358728"
        y="32.612415"
        id="text2157"><tspan
          sodipodi:role="line"
          id="tspan2155"
-         x="17.209263"
+         x="24.358728"
          y="32.612415"
          style="stroke-width:0.241978">Culture</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
-       x="63.301964"
-       y="32.612415"
-       id="text2161"><tspan
-         sodipodi:role="line"
-         x="63.301964"
-         y="32.612415"
-         style="stroke-width:0.241978"
-         id="tspan2163">Lab Result for </tspan><tspan
-         sodipodi:role="line"
-         x="63.301964"
-         y="36.242088"
-         style="stroke-width:0.241978"
-         id="tspan14157">1st line drugs</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
-       x="99.282349"
-       y="32.612415"
-       id="text2167"><tspan
-         sodipodi:role="line"
-         id="tspan2165"
-         x="99.282349"
-         y="32.612415"
-         style="stroke-width:0.241978">Culture</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
-       x="113.98069"
-       y="32.612415"
-       id="text2171"><tspan
-         sodipodi:role="line"
-         x="113.98069"
-         y="32.612415"
-         style="stroke-width:0.241978"
-         id="tspan2337">Lab Result for </tspan><tspan
-         sodipodi:role="line"
-         x="113.98069"
-         y="36.242088"
-         style="stroke-width:0.241978"
-         id="tspan3058">2nd line drugs</tspan></text>
     <rect
-       style="fill:#d95f02;fill-opacity:1;stroke:#000000;stroke-width:0.457282;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2007-3-1"
-       width="39.739822"
-       height="17.900955"
-       x="53.600121"
-       y="11.019082" />
-    <rect
-       style="fill:#1b9e77;fill-opacity:1;stroke:#000000;stroke-width:0.457282;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2007-9"
-       width="19.869911"
-       height="17.900955"
-       x="94.636665"
-       y="11.019082" />
-    <rect
-       style="fill:#d95f02;fill-opacity:1;stroke:#000000;stroke-width:0.457282;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2007-3-4"
-       width="19.869911"
-       height="17.900955"
-       x="114.50658"
-       y="11.019082" />
-    <rect
-       style="fill:#1b9e77;fill-opacity:1;stroke:#000000;stroke-width:0.457282;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#1b9e77;fill-opacity:1;stroke:#000000;stroke-width:0.457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2007-7-3"
-       width="19.869911"
-       height="17.900955"
-       x="12.563578"
-       y="11.019082" />
+       width="40.700439"
+       height="17.707325"
+       x="12.660392"
+       y="11.115898" />
     <rect
-       style="fill:#d95f02;fill-opacity:1;stroke:#000000;stroke-width:0.457282;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d95f02;fill-opacity:1;stroke:#000000;stroke-width:0.457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2007-7-6"
-       width="19.869911"
-       height="17.900955"
-       x="32.433487"
-       y="11.019082" />
+       width="21.74498"
+       height="17.880144"
+       x="53.389534"
+       y="11.029488" />
+    <rect
+       style="fill:#d95f02;fill-opacity:1;stroke:#000000;stroke-width:0.821519;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2007-7-6-6"
+       width="65.462219"
+       height="17.536718"
+       x="84.056747"
+       y="50.740635" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
-       x="34.070511"
+       x="63.841579"
        y="32.612415"
        id="text2305"><tspan
          sodipodi:role="line"
-         id="tspan2303"
-         x="34.070511"
+         x="63.841579"
          y="32.612415"
-         style="stroke-width:0.241978">Preliminary</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.241978"
+         id="tspan2307">Susceptibilities</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90374px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241978"
+       x="102.90271"
+       y="32.22607"
+       id="text2305-8"><tspan
          sodipodi:role="line"
-         x="34.070511"
-         y="36.242088"
-         style="stroke-width:0.241978"
-         id="tspan2307">Lab Result</tspan></text>
+         x="102.90271"
+         y="32.22607"
+         style="text-align:center;text-anchor:middle;stroke-width:0.241978"
+         id="tspan2307-7">Reference Lab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.39485px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366237"
@@ -244,7 +196,7 @@
            y="70.183212"
            style="stroke-width:0.264583">Culture </tspan></text>
       <rect
-         style="fill:#1b9e77;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#1b9e77;fill-opacity:1;stroke:#000000;stroke-width:0.49969078;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2007-7"
          width="21.726063"
          height="19.573177"
@@ -278,7 +230,7 @@
            id="tspan2259-6-5"
            x="30.536646"
            y="58.371758"
-           style="stroke-width:0.400449">1-2 weeks</tspan></text>
+           style="stroke-width:0.400449">~24 hours</tspan></text>
     </g>
     <g
        id="g3116"
@@ -315,7 +267,7 @@
            id="tspan2259-6-4"
            x="16.54417"
            y="87.695511"
-           style="stroke-width:0.376063">&lt;1 day</tspan></text>
+           style="stroke-width:0.376063" /></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.06166px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.255138"
@@ -335,12 +287,12 @@
          xml:space="preserve"
          style="font-size:4.79361px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.399466"
          x="71.473038"
-         y="109.74171"
+         y="122.88773"
          id="text14519"><tspan
            sodipodi:role="line"
            id="tspan14517"
            x="71.473038"
-           y="109.74171"
+           y="122.88773"
            style="stroke-width:0.399466">Time</tspan></text>
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02683;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -349,6 +301,28 @@
          height="1.5241942e-06"
          x="13.683683"
          y="51.530609" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-size:3.62242px;line-height:1;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Italic';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#d95f02;stroke-width:0.688893"
+         x="147.18553"
+         y="-29.629627"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="stroke-width:0.688895"
+           x="147.18553"
+           y="-29.629627">24-48 hours for bacterial cultures to grow and produce a pure culture, with an additional 18-24 hours for traditional susceptibility testing assays</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51276px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.376063"
+         x="41.073177"
+         y="87.695511"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="41.073177"
+           y="87.695511"
+           style="stroke-width:0.376063">10 hours</tspan></text>
     </g>
   </g>
 </svg>
